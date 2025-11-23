@@ -7,10 +7,6 @@ Projekt obejmował praktyczne wykorzystanie języka Python w kontekście cyberbe
 
 W ramach projektu zrealizowano pełen zestaw zadań, obejmujących zarówno podstawowe konstrukcje Pythona, jak i bardziej złożone operacje wykorzystywane w praktyce bezpieczeństwa IT. Zakres pracy obejmował ponad 40 kroków zadaniowych
 
-Python Programming for Security…
-
-.
-
 Zakres pracy
 1. Operacje na zmiennych, danych i wejściu użytkownika
 
